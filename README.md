@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Allan (@allan-jt)
+- 👋 Hello world! I’m Allan (@allan-jt)
 - 👀 I’m new to coding ...
 - 🌱 And currently learning it at 42 Abu Dhabi.
 - ✨ Wish me luck!
