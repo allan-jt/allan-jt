@@ -1,5 +1,3 @@
 \<Allan\>
-   Hello world! 👋
-   I'm new to coding and currently studying 
-   it at 42 Abu Dhabi. Wish me luck! ✨
+   Studying software dev at 42 Abu Dhabi
 \</Allan\>
