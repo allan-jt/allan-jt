@@ -1,3 +1,3 @@
 \<Allan\>
-   Studying software dev at 42 Abu Dhabi
+   MSCS @ NYU Tandon
 \</Allan\>
